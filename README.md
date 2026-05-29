@@ -35,36 +35,36 @@ Built for content engineers, strategists, and authors who prioritize rigor, obje
 
 The suite operates on a closed-loop architecture. By integrating these three engines, we move from raw intelligence to published assets with zero wasted motion.
 
-```text
-[ RAW DATA ] ──> [ FORGE ] ──> [ PAUSE ] ──> [ LEGACY ] ──> [ DISTRIBUTION ]
+    [ RAW DATA ] ──> [ FORGE ] ──> [ PAUSE ] ──> [ LEGACY ] ──> [ DISTRIBUTION ]
+
+* **Forge:** *Forge* high-authority insights from raw data. If the scorecard doesn't pass, the content doesn't proceed.
+* **Pause:** *Pause* AI influence. Protect your cognitive sovereignty to ensure your unique perspective remains uncorrupted.
+* **Legacy:** *Legacy* your work. Transform engineered content into permanent, searchable knowledge assets.
 
 ---
 
-Forge: Forge high-authority insights from raw data. If the scorecard doesn't pass, the content doesn't proceed.
+## 🚀 Deployment Guide
 
-Pause: Pause AI influence. Protect your cognitive sovereignty to ensure your unique perspective remains uncorrupted.
-
-Legacy: Legacy your work. Transform engineered content into permanent, searchable knowledge assets.
-
-🚀 Deployment Guide
 To integrate Forge into your professional pipeline, follow these steps:
 
-Sync Suite: Ensure all three Sentinel Suite repositories are initialized in your workspace.
+1. **Sync Suite:** Ensure all three Sentinel Suite repositories are initialized in your workspace.
+2. **Configure:** Copy `.env.example` to `.env` and input your required API credentials.
+3. **Initialize:** Execute `npm install` to prepare the engine for your environment.
+4. **Execute:** Run `[INSERT YOUR RUN COMMAND HERE]` to launch the engine.
+5. **Audit:** Run a topic through the `SCORECARD.md` (located in this directory) to validate market viability before beginning production.
+6. **Publish:** Use the **Legacy** portal to finalize and deploy your engineered asset to your distribution channels.
 
-Configure: Copy .env.example to .env and input your required API credentials.
+---
 
-Initialize: Execute npm install to prepare the engine for your environment.
+## 💼 Enterprise Deployments
 
-Audit: Run a topic through the SCORECARD.md (located in this directory) to validate market viability before beginning production.
-
-Publish: Use the Legacy portal to finalize and deploy your engineered asset to your distribution channels.
-
-💼 Enterprise Deployments
 We provide custom Content-as-a-Service (CaaS) deployments for professional teams who need to scale their authority engine.
 
-Need this workflow implemented for your team?
-We provide end-to-end Sentinel Suite deployments, including custom Dispatch API configuration and team training.
+> **Need this workflow implemented for your team?**
+> We provide end-to-end Sentinel Suite deployments, including custom Dispatch API configuration and team training.
+> 
+> [Contact for Consultation](mailto:stepio.coml@gmail.com)
 
-Contact for Consultation
+---
 
-License: MIT
+*License: MIT*
